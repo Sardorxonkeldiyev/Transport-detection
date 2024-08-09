@@ -1,7 +1,7 @@
+
+![Uploading scale_1200 (3).jpeg…]()
+
 # Transport-detection with OpenCV
-
-
-https://cdn.iportal.ru/news/2020/99/preview/a936c6dc139187fc292c4c039af7a2a30b2f8c8a_3000_1688_c.JPG
 
 # Vehicle Detection Using Haar Cascade Classifier
 ### Overview
