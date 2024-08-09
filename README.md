@@ -1,5 +1,5 @@
 
-![Uploading scale_1200 (3).jpeg…]()
+(![scale_1200 (3)](https://github.com/user-attachments/assets/3f0e0677-455c-47fc-8c49-e178798751b5))
 
 # Transport-detection with OpenCV
 
