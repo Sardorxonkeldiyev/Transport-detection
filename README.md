@@ -106,6 +106,9 @@ Below is an example of how the detected vehicles appear in the video feed:
 * Multi-Class Detection: Extend the system to detect different types of vehicles (e.g., cars, trucks, buses).
 * Deep Learning Integration: Replace Haar Cascade with a deep learning model (e.g., YOLO) for more accurate detection.
 
+(![c8c5724a487154c650600982877ab0c2](https://github.com/user-attachments/assets/0d2fec99-5c54-4a4e-bdba-6333f9b73248)
+)
+
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
